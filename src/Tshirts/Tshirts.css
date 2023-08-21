@@ -1,0 +1,15 @@
+.t-shirt{
+border: 1px solid brown;
+border-radius: 10px;
+}
+.t-shirt img{
+    height: 250px;
+}
+.price{
+    margin-left: 20px;
+}
+.button{
+    background-color:brown;
+    color: aliceblue;
+    margin-left: 20px;
+}
